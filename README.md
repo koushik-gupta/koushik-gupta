@@ -63,17 +63,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🎥 YouTube RAG Chatbot](https://github.com/koushik-gupta/YouTube_Chatbot_using_RAG) | Ask questions from any YouTube video using RAG | LangChain · ChromaDB · Llama 3.1 · Streamlit |
-| [📷 Smart Attendance System](https://github.com/koushik-gupta/Smart-Attendance-System) | Face-recognition attendance with liveness detection | OpenCV · Flask · SQLite |
-| [🚁 Aerial Object Detection](https://github.com/koushik-gupta/ariel-object-detection-project) | Bird vs. Drone classification at 91% accuracy | CNN · ResNet50 · YOLOv8 · Streamlit |
-| [📊 PhonePe Analytics Dashboard](https://github.com/koushik-gupta/PhonePe_ML_Project) | Geospatial fintech insights across 36 Indian states | Python · SQL · Streamlit · Plotly |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -86,7 +75,7 @@
 
 ### 🎓 Certifications
 
-- 🤗 [AI Agents Fundamentals](https://cas-bridge.xethub.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/6764e6bf224368ea1546ae6cf8e59384227a494753c66ac5e77d53f38cfa5f9f) — Hugging Face *(May 2026)*
+- 🤗 [AI Agents Fundamentals]([https://cas-bridge.xethub.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/6764e6bf224368ea1546ae6cf8e59384227a494753c66ac5e77d53f38cfa5f9f](https://cas-bridge.xethub.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/6764e6bf224368ea1546ae6cf8e59384227a494753c66ac5e77d53f38cfa5f9f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20260517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260517T050045Z&X-Amz-Expires=3600&X-Amz-Signature=d6db2ca19c5437e613bff9bc88dc915fbcbc6d9468555b71e20f785925df4895&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=68734ddc22da0869fb78bf2e&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272026-05-16.png%3B+filename%3D%222026-05-16.png%22%3B&response-content-type=image%2Fpng&x-amz-checksum-mode=ENABLED&x-id=GetObject&Expires=1778997645&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODk5NzY0NX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82N2E0NzAzNzc0OWVhMmM0YjlmYWZkNGIvNjc2NGU2YmYyMjQzNjhlYTE1NDZhZTZjZjhlNTkzODQyMjdhNDk0NzUzYzY2YWM1ZTc3ZDUzZjM4Y2ZhNWY5ZioifV19&Signature=Q1D3nc6GM4a8%7EYKkmz%7E8gilYEW8Dz%7EzR7P8Dtb9Hyom%7ESJdzP0ZOJ2MEH0Oguhn%7E9MPiDfKPs8Cy71eH1A8uUSBYWPt-iYyR1sanl2gqbpmeOgZAURXYbmZuTKr6FrjWhJHkasl9uuLzzl1WtTSZTyNnlhU4i85xz7FHAFuDhF7vxMGLtt1iHwRsrOYdzc--Hn6qCyjI-WmQ-27WF%7EkHn-MuZLrUYHLpGaEGLSxQ011wt8bih4ZRp4MlIKmgrza5aKrPpUFKKDYbNdXq0SuOvAuiEqA9Wvb%7EE-0x3uciPXTnKQ3qWQ9A3eXrohrqLy2UVb9uLeDlXfIihoZDXiECgw__&Key-Pair-Id=K2L8F4GPSG1IFC)) — Hugging Face *(May 2026)*
 - 🔵 [Introduction to GenAI](https://www.skills.google/public_profiles/109b1e37-6949-40ee-84be-0645d20d90ec/badges/24210582) — Google *(May 2026)*
 - 🔵 [Introduction to Large Language Models](https://www.skills.google/public_profiles/109b1e37-6949-40ee-84be-0645d20d90ec/badges/24210773) — Google *(May 2026)*
 - ⚡ Build with AI — edQuest *(Feb 2026)*
