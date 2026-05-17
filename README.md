@@ -1,27 +1,92 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>AI-powered web apps and full-stack projects<br><br>👯 I’m looking to collaborate on<br>AI/ML, Flask, OpenCV, SQL, and Python based projects<br><br>🤝 I’m looking for help with<br>System design and advanced ML/DL<br><br>🌱 I’m currently learning<br>Machine Learning and Deep Learning <br><br>💬 Ask me about<br>Python, Flask, databases, and deployment<br><br>⚡ Fun fact<br>I enjoy building real products more than just writing code 😄<br>
+<h1 align="center">Hi, I'm Koushik Gupta 👋</h1>
 
+<p align="center">
+  <b>B.Tech IT Student · Python Developer · AI Enthusiast · Open Source Contributor</b><br/>
+  <i>Techno Main Salt Lake (MAKAUT) · 2023–2027</i>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/koushik-gupta-103b13397) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:koushik26gupta@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=koushik-gupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=koushik-gupta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-gupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=koushik-gupta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=koushik-gupta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/koushik-gupta-103b13397/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:koushik26gupta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=koushik-gupta&style=flat&color=0077B5" alt="profile views"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=koushik-gupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About Me
+
+- 🔭 Currently building **AI-powered applications** and backend systems with Python
+- 🌱 Learning **Machine Learning, Deep Learning, and LLM-based systems**
+- 🤝 Contributing to open source via **GSSoC 2026** as an AI Agents Contributor
+- 💬 Ask me about **Python, Flask, RAG pipelines, SQL, and OpenCV**
+- ⚡ I enjoy shipping real products more than just writing code
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
+**Backend & Web**
+
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1C1C1C?style=flat&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🎥 YouTube RAG Chatbot](https://github.com/koushik-gupta/YouTube_Chatbot_using_RAG) | Ask questions from any YouTube video using RAG | LangChain · ChromaDB · Llama 3.1 · Streamlit |
+| [📷 Smart Attendance System](https://github.com/koushik-gupta/Smart-Attendance-System) | Face-recognition attendance with liveness detection | OpenCV · Flask · SQLite |
+| [🚁 Aerial Object Detection](https://github.com/koushik-gupta/ariel-object-detection-project) | Bird vs. Drone classification at 91% accuracy | CNN · ResNet50 · YOLOv8 · Streamlit |
+| [📊 PhonePe Analytics Dashboard](https://github.com/koushik-gupta/PhonePe_ML_Project) | Geospatial fintech insights across 36 Indian states | Python · SQL · Streamlit · Plotly |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koushik-gupta&theme=dark&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-gupta&theme=dark&hide_border=true&layout=compact&count_private=false" height="150"/>
+</p>
+
+---
+
+### 🎓 Certifications
+
+- 🤗 [AI Agents Fundamentals](https://cas-bridge.xethub.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/6764e6bf224368ea1546ae6cf8e59384227a494753c66ac5e77d53f38cfa5f9f) — Hugging Face *(May 2026)*
+- 🔵 [Introduction to GenAI](https://www.skills.google/public_profiles/109b1e37-6949-40ee-84be-0645d20d90ec/badges/24210582) — Google *(May 2026)*
+- 🔵 [Introduction to Large Language Models](https://www.skills.google/public_profiles/109b1e37-6949-40ee-84be-0645d20d90ec/badges/24210773) — Google *(May 2026)*
+- ⚡ Build with AI — edQuest *(Feb 2026)*
