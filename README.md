@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner with name baked in -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Koushik%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20%26%20AI%20Developer%20%7C%20B.Tech%20IT%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Koushik%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20and%20AI%20Developer%20%7C%20B.Tech%20IT%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
